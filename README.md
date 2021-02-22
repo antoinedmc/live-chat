@@ -2,6 +2,8 @@
 
 Simple chat using React, GraphQL and Websockets
 
+I develop that chat with the objective to include it in my future project. A social network dedicated to Historical Reenactment.
+
 ## Getting started
 
 ### Installing
